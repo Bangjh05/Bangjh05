@@ -7,7 +7,6 @@
 ## About Me
 
 - Computer Science Student at **Sookmyung Women's University** (2024 - Present)
-- Member of **[APPS](https://github.com/APPS-sookmyung)**, App/Web Development Club (2024.03 - 2026.03)
 - Interested in **Full-Stack Development, Backend, DevOps & Infrastructure**
 - Exploring **AI Agents, Cloud Computing, and Data-Driven Services**
 <br/>
@@ -45,7 +44,7 @@
  
 <br/>
 
-🏆 **Grand Prize** | DUYUTHON Hackathon (2026)
+🏆 **Grand Prize** | DUYUTHON Hackathon (2026) <br/>
 🏆 **Grand Prize** | Jeju · AWS Global Space Challenge Hackathon Idea Track (2026)
 
 <br/>
