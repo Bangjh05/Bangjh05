@@ -47,7 +47,7 @@
 
 ## Awards
 
-🏆 **Grand Prize** | Jeju · AWS Global Space Challenge Hackathon Idea Track (2026.02)
+🏆 **Grand Prize** | Jeju · AWS Global Space Challenge Hackathon Idea Track (2026.02) <br/>
 🏆 **Grand Prize** | DUYUTHON Hackathon (2026.05) <br/>
 
 <br/>
