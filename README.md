@@ -44,6 +44,7 @@
 
  
 <br/>
+## Awards
 
 🏆 **Grand Prize** | DUYUTHON Hackathon (2026) <br/>
 🏆 **Grand Prize** | Jeju · AWS Global Space Challenge Hackathon Idea Track (2026)
@@ -57,16 +58,6 @@
 |------|------------|
 | 2024.03 ~ 2026.03 | 숙명여대 앱/웹 개발 동아리 [@APPS](https://github.com/APPS-sookmyung) |
 
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bangjh05&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangjh05&layout=compact&theme=tokyonight"/>
-</p>
-
-<br/>
-
----
 
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/Bangjh05" width="500"/>
