@@ -1,96 +1,76 @@
-## Hi there 👋
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=40&pause=1000&color=A0D4FF&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Jihee+Bang" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=40&pause=1000&color=A0D4FF&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Jihee" alt="Typing SVG" />
   </a>
 </p>
 
-## About Me
-
-- Undergraduate Student at Sookmyung Women's University, School of Software (2024 - Present)
-- Member of <a href="https://github.com/APPS-sookmyung">APPS</a> (2024.03 - 2026.03)
-- Interested in **Backend, DevOps, Cloud Infrastructure**
-- Building services with **Spring Boot, React, AWS**
-- Currently exploring **AI Agents, Cloud Architecture, and Infrastructure Engineering**
+## About me
+- Undergraduate student at Sookmyung Women's University, Department of Software (2024 - Present)
+- Member of [@APPS](https://github.com/APPS-sookmyung), Mobile/Web App Development Club (2024.03 - 2026.03)
+- Interested in **Full-Stack Development, Backend, DevOps & Infrastructure**
 
 <br/>
 
-## Tech Stack
+## Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=spring,react,python,java,javascript" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,tailwind,postman" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,docker,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,notion,figma,aws,docker" />
   </a>
 </p>
 
 <br/>
 
-## Projects
+## GitHub Stats
 
-| Period | Project | Description |
-|----------|----------|----------|
-| 2024.07 ~ 2024.12 | **Merry Tree** | Christmas-themed web service where users decorate trees by earning ornaments through card matching games and share personalized messages. Built entirely with HTML, CSS, and JavaScript. |
-| 2025.04 ~ 2026.02 | **Devsong** | Developer community platform for Sookmyung students. Developed both backend and frontend features including My Page, activity history, resume APIs, ranking systems, popular posts, likes, and application features. |
-| 2026.05 ~ 2026.05 | **EchoRun** | Eco-friendly running platform that combines plogging and gamification. Built REST APIs with Spring Boot, implemented Google OAuth2 login, Gemini AI integration, and PostgreSQL database design. |
-| 2026.03 ~ 2026.06 | **R&D Ranking AI Agent** | Industry-academic collaboration project with OUTSTANDERS. Developed AI agent for research-performance-based ranking analysis using Python. |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bangjh05&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangjh05&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 <br/>
 
 ## Awards
 
-🏆 **Grand Prize** | DUYUTHON Hackathon (2026)
-
-- EchoRun
-- Spring Backend Developer
-
-🏆 **Grand Prize** | Jeju · AWS Global Space Challenge Hackathon (2026)
-
-- Idea Track Winner
+- **대상** | DUYUTHON 두유톤 해커톤 — EchoRun (2026.05)
+- **대상** | 제주·AWS 글로벌 스페이스 챌린지 해커톤 아이디어 트랙 (2026.01)
 
 <br/>
 
-## Experience
+## Projects
 
-| Period | Experience |
-|----------|----------|
-| 2024.03 ~ 2026.03 | APPS (App/Web Development Club, Sookmyung Women's University) |
-| 2024.12 | APPS Project Exhibition - Merry Tree |
-| 2025.04 ~ 2026.02 | Devsong Service Development |
-| 2026.03 ~ 2026.06 | Industry-Academic Collaboration Project with OUTSTANDERS |
-| 2026.05 | DUYUTHON Hackathon - Grand Prize |
-| 2026 | Jeju · AWS Global Space Challenge Hackathon - Grand Prize |
+| Date | Project | Stack | Type |
+|------|---------|-------|------|
+| 2024.07 ~ 2024.12 | [Merry Tree](https://github.com/bangjh05) — 카드 매칭 게임으로 오너먼트를 획득해 크리스마스 트리를 꾸미고, 메시지를 작성해 공유하는 웹 서비스 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 개인 프로젝트 |
+| 2025.04 ~ 2026.02 | [Devsong](https://github.com/bangjh05) — 숙명여대 재학생 인증 기반 개발자 커뮤니티. 팀원 모집, 공모전 공유, GitHub·백준 랭킹 비교 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | 팀 프로젝트 |
+| 2026.05 | [EchoRun](https://github.com/bangjh05) — 달리면서 쓰레기를 줍고 지구와 함께 성장하는 친환경 러닝 플랫폼 🏆 두유톤 대상 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | 팀 프로젝트 |
+| 2026.03 ~ 2026.06 | R&D 연구실적 기반 랭킹 AI Agent 개발 — ㈜아웃스탠더스 산학협력 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 산학협력 |
 
 <br/>
 
-## Interests
+## Experiences
 
-- Backend Development
-- DevOps & Infrastructure
-- Cloud Architecture
-- AI Agents
-- Distributed Systems
+| Date | Experience |
+|------|------------|
+| 2024.03 ~ 2026.03 | 숙명여대 앱/웹 개발 동아리 [@APPS](https://github.com/APPS-sookmyung) |
+| 2024 ~ 2025 | APPS 동아리 전시회 — Merry Tree, Devsong 출품 |
+| 2026.01 | 제주·AWS 글로벌 스페이스 챌린지 해커톤 아이디어 트랙 🏆 대상 |
+| 2026.05 | DUYUTHON 두유톤 해커톤 🏆 대상 |
 
-<br/><br/>
+<br/>
 
 <p align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Bangjh05" width="500"/>
-</a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/bangjh05" width="500"/>
+  </a>
 </p>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Bangjh05}" height="250/>
-</a>
