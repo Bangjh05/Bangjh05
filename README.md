@@ -44,6 +44,7 @@
 
  
 <br/>
+
 ## Awards
 
 🏆 **Grand Prize** | DUYUTHON Hackathon (2026) <br/>
@@ -58,7 +59,7 @@
 |------|------------|
 | 2024.03 ~ 2026.03 | 숙명여대 앱/웹 개발 동아리 [@APPS](https://github.com/APPS-sookmyung) |
 
-
+---
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/Bangjh05" width="500"/>
   </a>
