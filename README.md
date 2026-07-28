@@ -50,8 +50,8 @@
 ## Awards
 
 🏆 **Grand Prize** | Jeju · AWS Global Space Challenge Hackathon Idea Track (2026.02) <br/>
-🏆 **Grand Prize** | DUYUTHON Hackathon (2026.05) <br/>
-🥈 **Silver Prize** | ICT Award KOREA 2026 (University Division) – *Pillioo* (2026) <br/>
+🏆 **Grand Prize** | DUYUTHON Hackathon - *EchoRun* (2026.05) <br/>
+🥈 **Silver Prize** | ICT Award KOREA 2026 (University Division) – *Pillioo* (2026.07) <br/>
 
 <br/>
 
