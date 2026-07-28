@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,mysql,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=spring,mysql,react,tailwind,fastapi,postgres,docker,aws" />
   </a>
 </p>
 
@@ -42,6 +42,7 @@
 | 2026.03 ~ 2026.06 | R&D 연구실적 기반 랭킹 AI Agent 개발 | ㈜아웃스탠더스 산학협력 프로젝트 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | AI Agent Development |
 | 2026.05.18 ~ 2026.05.25 | [EchoRun](https://github.com/EchoRun-SYU/echorun-server) | 달리면서 쓰레기를 줍고 지구와 함께 성장하는 친환경 러닝 플랫폼 🏆 두유톤 대상 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Google OAuth](https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) | Backend |
 | 2026.06 | 지방 유휴공간 데이터 기반 지역재생 제안 프로젝트 | 제4회 문화체육관광 인공지능·데이터 활용 공모전 데이터 분석 프로젝트 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | Data Analysis |
+| 2026.06 ~ 2026.08 | [Pillioo](https://github.com/Pillioo) | 의약품 리콜 및 안전 이벤트 대응을 위한 약사 중심 AI 의사결정 지원 시스템. Docker 기반 인프라 구축, AWS 배포, PostgreSQL·Milvus 연동 및 API 통합 담당 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A6A6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | Infrastructure |
 
  
 <br/>
@@ -50,6 +51,7 @@
 
 🏆 **Grand Prize** | Jeju · AWS Global Space Challenge Hackathon Idea Track (2026.02) <br/>
 🏆 **Grand Prize** | DUYUTHON Hackathon (2026.05) <br/>
+🥈 **Silver Prize** | ICT Award KOREA 2026 (University Division) – *Pillioo* (2026) <br/>
 
 <br/>
 
