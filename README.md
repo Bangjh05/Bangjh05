@@ -8,7 +8,7 @@
 
 - Computer Science Student at **Sookmyung Women's University** (2024 - Present)
 - Interested in **Full-Stack Development, Backend, DevOps & Infrastructure**
-- Exploring **AI Agents, Cloud Computing, and Data-Driven Services**
+- Exploring **AI Agents and Cloud Computing**
 <br/>
 
 ## Tech Stack
@@ -61,3 +61,4 @@
 | Date | Experience |
 |------|------------|
 | 2024.03 ~ 2026.03 | 숙명여대 앱/웹 개발 동아리 [@APPS](https://github.com/APPS-sookmyung) |
+| 2026.09 ~ | 대학생 연합 인공지능 동아리 [@Prometheus](https://github.com/Prometheus-AI-Project) |
